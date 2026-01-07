@@ -23,7 +23,7 @@ This project serves as a comprehensive feedback management solution featuring tw
 ## 3. Implementation Details
 
 ### User Dashboard
-- **URL**: [Your Vercel Deployment URL]
+- **URL**: [https://fynd-submission-theta.vercel.app/user]
 - **Features**:
   - Interactive 5-star rating component.
   - Character-limited text area (max 2000 chars).
@@ -31,7 +31,7 @@ This project serves as a comprehensive feedback management solution featuring tw
   - Form validation handling empty reviews.
 
 ### Admin Dashboard
-- **URL**: [Your Vercel Deployment URL]/admin
+- **URL**: [https://fynd-submission-theta.vercel.app/admin]
 - **Features**:
   - Real-time statistics (Total Reviews, Average Rating).
   - Rating distribution bar chart.
