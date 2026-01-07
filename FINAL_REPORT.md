@@ -49,8 +49,8 @@ The following chart compares the accuracy and reliability of each approach:
 A robust feedback management system designed to collect user reviews and provide actionable insights for administrators.
 
 **Live Deployment URLs**:
-- **User Dashboard** (Submission): `https://fynd-submission.vercel.app/user`
-- **Admin Dashboard** (Analytics): `https://fynd-submission.vercel.app/admin`
+- **User Dashboard** (Submission): `https://fynd-submission-theta.vercel.app/user`
+- **Admin Dashboard** (Analytics): `https://fynd-submission-theta.vercel.app/admin`
 
 ## 2.2 System Architecture
 - **Frontend/Backend**: Next.js 14 (App Router)
