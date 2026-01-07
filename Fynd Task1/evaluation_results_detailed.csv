@@ -1,0 +1,801 @@
+approach,review_index,actual_stars,predicted_stars,correct,off_by_one
+Zero-Shot Direct,0,3,4.0,False,True
+Zero-Shot Direct,1,1,1.0,True,True
+Zero-Shot Direct,2,1,1.0,True,True
+Zero-Shot Direct,3,4,4.0,True,True
+Zero-Shot Direct,4,4,5.0,False,True
+Zero-Shot Direct,5,3,3.0,True,True
+Zero-Shot Direct,6,2,1.0,False,True
+Zero-Shot Direct,7,5,1.0,False,False
+Zero-Shot Direct,8,5,5.0,True,True
+Zero-Shot Direct,9,2,2.0,True,True
+Zero-Shot Direct,10,2,1.0,False,True
+Zero-Shot Direct,11,5,5.0,True,True
+Zero-Shot Direct,12,5,5.0,True,True
+Zero-Shot Direct,13,2,1.0,False,True
+Zero-Shot Direct,14,5,5.0,True,True
+Zero-Shot Direct,15,5,5.0,True,True
+Zero-Shot Direct,16,2,1.0,False,True
+Zero-Shot Direct,17,4,4.0,True,True
+Zero-Shot Direct,18,3,3.0,True,True
+Zero-Shot Direct,19,2,3.0,False,True
+Zero-Shot Direct,20,4,4.0,True,True
+Zero-Shot Direct,21,1,1.0,True,True
+Zero-Shot Direct,22,4,5.0,False,True
+Zero-Shot Direct,23,3,2.0,False,True
+Zero-Shot Direct,24,2,1.0,False,True
+Zero-Shot Direct,25,2,2.0,True,True
+Zero-Shot Direct,26,3,4.0,False,True
+Zero-Shot Direct,27,2,3.0,False,True
+Zero-Shot Direct,28,4,4.0,True,True
+Zero-Shot Direct,29,4,4.0,True,True
+Zero-Shot Direct,30,1,,False,False
+Zero-Shot Direct,31,1,,False,False
+Zero-Shot Direct,32,2,1.0,False,True
+Zero-Shot Direct,33,2,,False,False
+Zero-Shot Direct,34,4,,False,False
+Zero-Shot Direct,35,3,3.0,True,True
+Zero-Shot Direct,36,4,,False,False
+Zero-Shot Direct,37,4,,False,False
+Zero-Shot Direct,38,5,5.0,True,True
+Zero-Shot Direct,39,2,,False,False
+Zero-Shot Direct,40,2,,False,False
+Zero-Shot Direct,41,5,,False,False
+Zero-Shot Direct,42,1,1.0,True,True
+Zero-Shot Direct,43,1,,False,False
+Zero-Shot Direct,44,4,,False,False
+Zero-Shot Direct,45,5,5.0,True,True
+Zero-Shot Direct,46,1,,False,False
+Zero-Shot Direct,47,1,,False,False
+Zero-Shot Direct,48,4,5.0,False,True
+Zero-Shot Direct,49,3,,False,False
+Zero-Shot Direct,50,3,,False,False
+Zero-Shot Direct,51,5,4.0,False,True
+Zero-Shot Direct,52,1,,False,False
+Zero-Shot Direct,53,4,,False,False
+Zero-Shot Direct,54,3,3.0,True,True
+Zero-Shot Direct,55,2,,False,False
+Zero-Shot Direct,56,4,,False,False
+Zero-Shot Direct,57,3,4.0,False,True
+Zero-Shot Direct,58,5,,False,False
+Zero-Shot Direct,59,3,,False,False
+Zero-Shot Direct,60,5,5.0,True,True
+Zero-Shot Direct,61,3,,False,False
+Zero-Shot Direct,62,1,,False,False
+Zero-Shot Direct,63,1,1.0,True,True
+Zero-Shot Direct,64,1,,False,False
+Zero-Shot Direct,65,3,,False,False
+Zero-Shot Direct,66,2,2.0,True,True
+Zero-Shot Direct,67,5,,False,False
+Zero-Shot Direct,68,3,,False,False
+Zero-Shot Direct,69,4,4.0,True,True
+Zero-Shot Direct,70,2,,False,False
+Zero-Shot Direct,71,4,,False,False
+Zero-Shot Direct,72,5,5.0,True,True
+Zero-Shot Direct,73,2,,False,False
+Zero-Shot Direct,74,3,,False,False
+Zero-Shot Direct,75,3,4.0,False,True
+Zero-Shot Direct,76,1,,False,False
+Zero-Shot Direct,77,4,,False,False
+Zero-Shot Direct,78,3,2.0,False,True
+Zero-Shot Direct,79,3,,False,False
+Zero-Shot Direct,80,1,,False,False
+Zero-Shot Direct,81,2,,False,False
+Zero-Shot Direct,82,2,2.0,True,True
+Zero-Shot Direct,83,5,,False,False
+Zero-Shot Direct,84,5,,False,False
+Zero-Shot Direct,85,3,3.0,True,True
+Zero-Shot Direct,86,5,,False,False
+Zero-Shot Direct,87,1,,False,False
+Zero-Shot Direct,88,5,5.0,True,True
+Zero-Shot Direct,89,2,,False,False
+Zero-Shot Direct,90,1,,False,False
+Zero-Shot Direct,91,4,5.0,False,True
+Zero-Shot Direct,92,3,,False,False
+Zero-Shot Direct,93,1,,False,False
+Zero-Shot Direct,94,1,1.0,True,True
+Zero-Shot Direct,95,5,,False,False
+Zero-Shot Direct,96,4,,False,False
+Zero-Shot Direct,97,1,,False,False
+Zero-Shot Direct,98,1,1.0,True,True
+Zero-Shot Direct,99,4,,False,False
+Zero-Shot Direct,100,1,,False,False
+Zero-Shot Direct,101,1,,False,False
+Zero-Shot Direct,102,4,4.0,True,True
+Zero-Shot Direct,103,4,,False,False
+Zero-Shot Direct,104,3,,False,False
+Zero-Shot Direct,105,4,4.0,True,True
+Zero-Shot Direct,106,1,,False,False
+Zero-Shot Direct,107,2,,False,False
+Zero-Shot Direct,108,3,3.0,True,True
+Zero-Shot Direct,109,4,,False,False
+Zero-Shot Direct,110,5,,False,False
+Zero-Shot Direct,111,1,1.0,True,True
+Zero-Shot Direct,112,5,,False,False
+Zero-Shot Direct,113,4,,False,False
+Zero-Shot Direct,114,2,,False,False
+Zero-Shot Direct,115,4,4.0,True,True
+Zero-Shot Direct,116,2,,False,False
+Zero-Shot Direct,117,2,,False,False
+Zero-Shot Direct,118,5,5.0,True,True
+Zero-Shot Direct,119,1,,False,False
+Zero-Shot Direct,120,2,,False,False
+Zero-Shot Direct,121,3,4.0,False,True
+Zero-Shot Direct,122,4,,False,False
+Zero-Shot Direct,123,4,,False,False
+Zero-Shot Direct,124,1,1.0,True,True
+Zero-Shot Direct,125,1,,False,False
+Zero-Shot Direct,126,5,,False,False
+Zero-Shot Direct,127,4,4.0,True,True
+Zero-Shot Direct,128,3,,False,False
+Zero-Shot Direct,129,1,,False,False
+Zero-Shot Direct,130,5,5.0,True,True
+Zero-Shot Direct,131,2,,False,False
+Zero-Shot Direct,132,3,,False,False
+Zero-Shot Direct,133,4,5.0,False,True
+Zero-Shot Direct,134,2,,False,False
+Zero-Shot Direct,135,4,,False,False
+Zero-Shot Direct,136,1,1.0,True,True
+Zero-Shot Direct,137,3,,False,False
+Zero-Shot Direct,138,2,,False,False
+Zero-Shot Direct,139,4,5.0,False,True
+Zero-Shot Direct,140,5,,False,False
+Zero-Shot Direct,141,5,,False,False
+Zero-Shot Direct,142,5,5.0,True,True
+Zero-Shot Direct,143,2,,False,False
+Zero-Shot Direct,144,3,,False,False
+Zero-Shot Direct,145,1,1.0,True,True
+Zero-Shot Direct,146,1,,False,False
+Zero-Shot Direct,147,3,,False,False
+Zero-Shot Direct,148,3,3.0,True,True
+Zero-Shot Direct,149,3,,False,False
+Zero-Shot Direct,150,5,,False,False
+Zero-Shot Direct,151,5,5.0,True,True
+Zero-Shot Direct,152,3,,False,False
+Zero-Shot Direct,153,1,,False,False
+Zero-Shot Direct,154,1,2.0,False,True
+Zero-Shot Direct,155,2,,False,False
+Zero-Shot Direct,156,5,,False,False
+Zero-Shot Direct,157,4,5.0,False,True
+Zero-Shot Direct,158,1,,False,False
+Zero-Shot Direct,159,2,,False,False
+Zero-Shot Direct,160,5,5.0,True,True
+Zero-Shot Direct,161,4,,False,False
+Zero-Shot Direct,162,5,,False,False
+Zero-Shot Direct,163,5,5.0,True,True
+Zero-Shot Direct,164,2,,False,False
+Zero-Shot Direct,165,2,,False,False
+Zero-Shot Direct,166,3,3.0,True,True
+Zero-Shot Direct,167,2,,False,False
+Zero-Shot Direct,168,5,,False,False
+Zero-Shot Direct,169,2,1.0,False,True
+Zero-Shot Direct,170,2,,False,False
+Zero-Shot Direct,171,3,,False,False
+Zero-Shot Direct,172,1,1.0,True,True
+Zero-Shot Direct,173,2,,False,False
+Zero-Shot Direct,174,5,,False,False
+Zero-Shot Direct,175,5,5.0,True,True
+Zero-Shot Direct,176,4,,False,False
+Zero-Shot Direct,177,1,,False,False
+Zero-Shot Direct,178,4,5.0,False,True
+Zero-Shot Direct,179,5,,False,False
+Zero-Shot Direct,180,1,,False,False
+Zero-Shot Direct,181,2,2.0,True,True
+Zero-Shot Direct,182,4,,False,False
+Zero-Shot Direct,183,4,,False,False
+Zero-Shot Direct,184,4,4.0,True,True
+Zero-Shot Direct,185,3,,False,False
+Zero-Shot Direct,186,3,,False,False
+Zero-Shot Direct,187,3,2.0,False,True
+Zero-Shot Direct,188,3,,False,False
+Zero-Shot Direct,189,2,,False,False
+Zero-Shot Direct,190,4,4.0,True,True
+Zero-Shot Direct,191,5,,False,False
+Zero-Shot Direct,192,1,,False,False
+Zero-Shot Direct,193,5,5.0,True,True
+Zero-Shot Direct,194,2,,False,False
+Zero-Shot Direct,195,3,,False,False
+Zero-Shot Direct,196,1,1.0,True,True
+Zero-Shot Direct,197,3,,False,False
+Zero-Shot Direct,198,5,,False,False
+Zero-Shot Direct,199,3,2.0,False,True
+Few-Shot with Examples,0,3,,False,False
+Few-Shot with Examples,1,1,,False,False
+Few-Shot with Examples,2,1,1.0,True,True
+Few-Shot with Examples,3,4,,False,False
+Few-Shot with Examples,4,4,,False,False
+Few-Shot with Examples,5,3,,False,False
+Few-Shot with Examples,6,2,1.0,False,True
+Few-Shot with Examples,7,5,,False,False
+Few-Shot with Examples,8,5,,False,False
+Few-Shot with Examples,9,2,2.0,True,True
+Few-Shot with Examples,10,2,,False,False
+Few-Shot with Examples,11,5,,False,False
+Few-Shot with Examples,12,5,5.0,True,True
+Few-Shot with Examples,13,2,,False,False
+Few-Shot with Examples,14,5,,False,False
+Few-Shot with Examples,15,5,5.0,True,True
+Few-Shot with Examples,16,2,,False,False
+Few-Shot with Examples,17,4,,False,False
+Few-Shot with Examples,18,3,3.0,True,True
+Few-Shot with Examples,19,2,,False,False
+Few-Shot with Examples,20,4,,False,False
+Few-Shot with Examples,21,1,,False,False
+Few-Shot with Examples,22,4,5.0,False,True
+Few-Shot with Examples,23,3,,False,False
+Few-Shot with Examples,24,2,,False,False
+Few-Shot with Examples,25,2,,False,False
+Few-Shot with Examples,26,3,4.0,False,True
+Few-Shot with Examples,27,2,,False,False
+Few-Shot with Examples,28,4,,False,False
+Few-Shot with Examples,29,4,5.0,False,True
+Few-Shot with Examples,30,1,,False,False
+Few-Shot with Examples,31,1,,False,False
+Few-Shot with Examples,32,2,,False,False
+Few-Shot with Examples,33,2,3.0,False,True
+Few-Shot with Examples,34,4,,False,False
+Few-Shot with Examples,35,3,,False,False
+Few-Shot with Examples,36,4,4.0,True,True
+Few-Shot with Examples,37,4,,False,False
+Few-Shot with Examples,38,5,,False,False
+Few-Shot with Examples,39,2,,False,False
+Few-Shot with Examples,40,2,1.0,False,True
+Few-Shot with Examples,41,5,,False,False
+Few-Shot with Examples,42,1,,False,False
+Few-Shot with Examples,43,1,2.0,False,True
+Few-Shot with Examples,44,4,,False,False
+Few-Shot with Examples,45,5,,False,False
+Few-Shot with Examples,46,1,1.0,True,True
+Few-Shot with Examples,47,1,,False,False
+Few-Shot with Examples,48,4,,False,False
+Few-Shot with Examples,49,3,2.0,False,True
+Few-Shot with Examples,50,3,,False,False
+Few-Shot with Examples,51,5,,False,False
+Few-Shot with Examples,52,1,1.0,True,True
+Few-Shot with Examples,53,4,,False,False
+Few-Shot with Examples,54,3,,False,False
+Few-Shot with Examples,55,2,1.0,False,True
+Few-Shot with Examples,56,4,,False,False
+Few-Shot with Examples,57,3,,False,False
+Few-Shot with Examples,58,5,5.0,True,True
+Few-Shot with Examples,59,3,,False,False
+Few-Shot with Examples,60,5,,False,False
+Few-Shot with Examples,61,3,3.0,True,True
+Few-Shot with Examples,62,1,,False,False
+Few-Shot with Examples,63,1,,False,False
+Few-Shot with Examples,64,1,1.0,True,True
+Few-Shot with Examples,65,3,,False,False
+Few-Shot with Examples,66,2,,False,False
+Few-Shot with Examples,67,5,5.0,True,True
+Few-Shot with Examples,68,3,,False,False
+Few-Shot with Examples,69,4,,False,False
+Few-Shot with Examples,70,2,2.0,True,True
+Few-Shot with Examples,71,4,,False,False
+Few-Shot with Examples,72,5,,False,False
+Few-Shot with Examples,73,2,2.0,True,True
+Few-Shot with Examples,74,3,,False,False
+Few-Shot with Examples,75,3,,False,False
+Few-Shot with Examples,76,1,1.0,True,True
+Few-Shot with Examples,77,4,,False,False
+Few-Shot with Examples,78,3,,False,False
+Few-Shot with Examples,79,3,3.0,True,True
+Few-Shot with Examples,80,1,,False,False
+Few-Shot with Examples,81,2,,False,False
+Few-Shot with Examples,82,2,2.0,True,True
+Few-Shot with Examples,83,5,,False,False
+Few-Shot with Examples,84,5,,False,False
+Few-Shot with Examples,85,3,3.0,True,True
+Few-Shot with Examples,86,5,,False,False
+Few-Shot with Examples,87,1,,False,False
+Few-Shot with Examples,88,5,5.0,True,True
+Few-Shot with Examples,89,2,,False,False
+Few-Shot with Examples,90,1,,False,False
+Few-Shot with Examples,91,4,,False,False
+Few-Shot with Examples,92,3,3.0,True,True
+Few-Shot with Examples,93,1,,False,False
+Few-Shot with Examples,94,1,,False,False
+Few-Shot with Examples,95,5,5.0,True,True
+Few-Shot with Examples,96,4,,False,False
+Few-Shot with Examples,97,1,,False,False
+Few-Shot with Examples,98,1,1.0,True,True
+Few-Shot with Examples,99,4,,False,False
+Few-Shot with Examples,100,1,,False,False
+Few-Shot with Examples,101,1,1.0,True,True
+Few-Shot with Examples,102,4,,False,False
+Few-Shot with Examples,103,4,,False,False
+Few-Shot with Examples,104,3,4.0,False,True
+Few-Shot with Examples,105,4,,False,False
+Few-Shot with Examples,106,1,,False,False
+Few-Shot with Examples,107,2,2.0,True,True
+Few-Shot with Examples,108,3,,False,False
+Few-Shot with Examples,109,4,,False,False
+Few-Shot with Examples,110,5,5.0,True,True
+Few-Shot with Examples,111,1,,False,False
+Few-Shot with Examples,112,5,,False,False
+Few-Shot with Examples,113,4,,False,False
+Few-Shot with Examples,114,2,1.0,False,True
+Few-Shot with Examples,115,4,,False,False
+Few-Shot with Examples,116,2,,False,False
+Few-Shot with Examples,117,2,2.0,True,True
+Few-Shot with Examples,118,5,,False,False
+Few-Shot with Examples,119,1,,False,False
+Few-Shot with Examples,120,2,2.0,True,True
+Few-Shot with Examples,121,3,,False,False
+Few-Shot with Examples,122,4,,False,False
+Few-Shot with Examples,123,4,5.0,False,True
+Few-Shot with Examples,124,1,,False,False
+Few-Shot with Examples,125,1,,False,False
+Few-Shot with Examples,126,5,4.0,False,True
+Few-Shot with Examples,127,4,,False,False
+Few-Shot with Examples,128,3,,False,False
+Few-Shot with Examples,129,1,1.0,True,True
+Few-Shot with Examples,130,5,,False,False
+Few-Shot with Examples,131,2,,False,False
+Few-Shot with Examples,132,3,3.0,True,True
+Few-Shot with Examples,133,4,,False,False
+Few-Shot with Examples,134,2,,False,False
+Few-Shot with Examples,135,4,5.0,False,True
+Few-Shot with Examples,136,1,,False,False
+Few-Shot with Examples,137,3,,False,False
+Few-Shot with Examples,138,2,1.0,False,True
+Few-Shot with Examples,139,4,,False,False
+Few-Shot with Examples,140,5,,False,False
+Few-Shot with Examples,141,5,,False,False
+Few-Shot with Examples,142,5,5.0,True,True
+Few-Shot with Examples,143,2,,False,False
+Few-Shot with Examples,144,3,,False,False
+Few-Shot with Examples,145,1,1.0,True,True
+Few-Shot with Examples,146,1,,False,False
+Few-Shot with Examples,147,3,,False,False
+Few-Shot with Examples,148,3,3.0,True,True
+Few-Shot with Examples,149,3,,False,False
+Few-Shot with Examples,150,5,,False,False
+Few-Shot with Examples,151,5,5.0,True,True
+Few-Shot with Examples,152,3,,False,False
+Few-Shot with Examples,153,1,,False,False
+Few-Shot with Examples,154,1,2.0,False,True
+Few-Shot with Examples,155,2,,False,False
+Few-Shot with Examples,156,5,,False,False
+Few-Shot with Examples,157,4,5.0,False,True
+Few-Shot with Examples,158,1,,False,False
+Few-Shot with Examples,159,2,,False,False
+Few-Shot with Examples,160,5,5.0,True,True
+Few-Shot with Examples,161,4,,False,False
+Few-Shot with Examples,162,5,,False,False
+Few-Shot with Examples,163,5,5.0,True,True
+Few-Shot with Examples,164,2,,False,False
+Few-Shot with Examples,165,2,,False,False
+Few-Shot with Examples,166,3,,False,False
+Few-Shot with Examples,167,2,1.0,False,True
+Few-Shot with Examples,168,5,,False,False
+Few-Shot with Examples,169,2,,False,False
+Few-Shot with Examples,170,2,,False,False
+Few-Shot with Examples,171,3,2.0,False,True
+Few-Shot with Examples,172,1,,False,False
+Few-Shot with Examples,173,2,,False,False
+Few-Shot with Examples,174,5,,False,False
+Few-Shot with Examples,175,5,5.0,True,True
+Few-Shot with Examples,176,4,,False,False
+Few-Shot with Examples,177,1,,False,False
+Few-Shot with Examples,178,4,5.0,False,True
+Few-Shot with Examples,179,5,,False,False
+Few-Shot with Examples,180,1,,False,False
+Few-Shot with Examples,181,2,2.0,True,True
+Few-Shot with Examples,182,4,,False,False
+Few-Shot with Examples,183,4,,False,False
+Few-Shot with Examples,184,4,5.0,False,True
+Few-Shot with Examples,185,3,,False,False
+Few-Shot with Examples,186,3,,False,False
+Few-Shot with Examples,187,3,3.0,True,True
+Few-Shot with Examples,188,3,,False,False
+Few-Shot with Examples,189,2,,False,False
+Few-Shot with Examples,190,4,4.0,True,True
+Few-Shot with Examples,191,5,,False,False
+Few-Shot with Examples,192,1,,False,False
+Few-Shot with Examples,193,5,5.0,True,True
+Few-Shot with Examples,194,2,,False,False
+Few-Shot with Examples,195,3,,False,False
+Few-Shot with Examples,196,1,1.0,True,True
+Few-Shot with Examples,197,3,,False,False
+Few-Shot with Examples,198,5,,False,False
+Few-Shot with Examples,199,3,2.0,False,True
+Chain-of-Thought,0,3,,False,False
+Chain-of-Thought,1,1,,False,False
+Chain-of-Thought,2,1,1.0,True,True
+Chain-of-Thought,3,4,,False,False
+Chain-of-Thought,4,4,,False,False
+Chain-of-Thought,5,3,3.0,True,True
+Chain-of-Thought,6,2,,False,False
+Chain-of-Thought,7,5,,False,False
+Chain-of-Thought,8,5,5.0,True,True
+Chain-of-Thought,9,2,,False,False
+Chain-of-Thought,10,2,,False,False
+Chain-of-Thought,11,5,5.0,True,True
+Chain-of-Thought,12,5,,False,False
+Chain-of-Thought,13,2,,False,False
+Chain-of-Thought,14,5,5.0,True,True
+Chain-of-Thought,15,5,,False,False
+Chain-of-Thought,16,2,,False,False
+Chain-of-Thought,17,4,4.0,True,True
+Chain-of-Thought,18,3,,False,False
+Chain-of-Thought,19,2,,False,False
+Chain-of-Thought,20,4,4.0,True,True
+Chain-of-Thought,21,1,,False,False
+Chain-of-Thought,22,4,,False,False
+Chain-of-Thought,23,3,2.0,False,True
+Chain-of-Thought,24,2,,False,False
+Chain-of-Thought,25,2,,False,False
+Chain-of-Thought,26,3,4.0,False,True
+Chain-of-Thought,27,2,,False,False
+Chain-of-Thought,28,4,,False,False
+Chain-of-Thought,29,4,4.0,True,True
+Chain-of-Thought,30,1,,False,False
+Chain-of-Thought,31,1,,False,False
+Chain-of-Thought,32,2,1.0,False,True
+Chain-of-Thought,33,2,,False,False
+Chain-of-Thought,34,4,,False,False
+Chain-of-Thought,35,3,3.0,True,True
+Chain-of-Thought,36,4,,False,False
+Chain-of-Thought,37,4,,False,False
+Chain-of-Thought,38,5,5.0,True,True
+Chain-of-Thought,39,2,,False,False
+Chain-of-Thought,40,2,,False,False
+Chain-of-Thought,41,5,5.0,True,True
+Chain-of-Thought,42,1,,False,False
+Chain-of-Thought,43,1,,False,False
+Chain-of-Thought,44,4,4.0,True,True
+Chain-of-Thought,45,5,,False,False
+Chain-of-Thought,46,1,,False,False
+Chain-of-Thought,47,1,1.0,True,True
+Chain-of-Thought,48,4,,False,False
+Chain-of-Thought,49,3,,False,False
+Chain-of-Thought,50,3,3.0,True,True
+Chain-of-Thought,51,5,4.0,False,True
+Chain-of-Thought,52,1,,False,False
+Chain-of-Thought,53,4,,False,False
+Chain-of-Thought,54,3,3.0,True,True
+Chain-of-Thought,55,2,,False,False
+Chain-of-Thought,56,4,,False,False
+Chain-of-Thought,57,3,4.0,False,True
+Chain-of-Thought,58,5,,False,False
+Chain-of-Thought,59,3,,False,False
+Chain-of-Thought,60,5,5.0,True,True
+Chain-of-Thought,61,3,,False,False
+Chain-of-Thought,62,1,,False,False
+Chain-of-Thought,63,1,1.0,True,True
+Chain-of-Thought,64,1,,False,False
+Chain-of-Thought,65,3,,False,False
+Chain-of-Thought,66,2,2.0,True,True
+Chain-of-Thought,67,5,,False,False
+Chain-of-Thought,68,3,,False,False
+Chain-of-Thought,69,4,4.0,True,True
+Chain-of-Thought,70,2,,False,False
+Chain-of-Thought,71,4,,False,False
+Chain-of-Thought,72,5,5.0,True,True
+Chain-of-Thought,73,2,,False,False
+Chain-of-Thought,74,3,,False,False
+Chain-of-Thought,75,3,4.0,False,True
+Chain-of-Thought,76,1,,False,False
+Chain-of-Thought,77,4,,False,False
+Chain-of-Thought,78,3,3.0,True,True
+Chain-of-Thought,79,3,,False,False
+Chain-of-Thought,80,1,,False,False
+Chain-of-Thought,81,2,3.0,False,True
+Chain-of-Thought,82,2,,False,False
+Chain-of-Thought,83,5,,False,False
+Chain-of-Thought,84,5,5.0,True,True
+Chain-of-Thought,85,3,,False,False
+Chain-of-Thought,86,5,,False,False
+Chain-of-Thought,87,1,1.0,True,True
+Chain-of-Thought,88,5,,False,False
+Chain-of-Thought,89,2,,False,False
+Chain-of-Thought,90,1,1.0,True,True
+Chain-of-Thought,91,4,,False,False
+Chain-of-Thought,92,3,,False,False
+Chain-of-Thought,93,1,1.0,True,True
+Chain-of-Thought,94,1,,False,False
+Chain-of-Thought,95,5,,False,False
+Chain-of-Thought,96,4,5.0,False,True
+Chain-of-Thought,97,1,,False,False
+Chain-of-Thought,98,1,,False,False
+Chain-of-Thought,99,4,4.0,True,True
+Chain-of-Thought,100,1,,False,False
+Chain-of-Thought,101,1,,False,False
+Chain-of-Thought,102,4,4.0,True,True
+Chain-of-Thought,103,4,,False,False
+Chain-of-Thought,104,3,3.0,True,True
+Chain-of-Thought,105,4,,False,False
+Chain-of-Thought,106,1,,False,False
+Chain-of-Thought,107,2,2.0,True,True
+Chain-of-Thought,108,3,,False,False
+Chain-of-Thought,109,4,,False,False
+Chain-of-Thought,110,5,5.0,True,True
+Chain-of-Thought,111,1,,False,False
+Chain-of-Thought,112,5,,False,False
+Chain-of-Thought,113,4,5.0,False,True
+Chain-of-Thought,114,2,,False,False
+Chain-of-Thought,115,4,,False,False
+Chain-of-Thought,116,2,3.0,False,True
+Chain-of-Thought,117,2,,False,False
+Chain-of-Thought,118,5,,False,False
+Chain-of-Thought,119,1,1.0,True,True
+Chain-of-Thought,120,2,,False,False
+Chain-of-Thought,121,3,,False,False
+Chain-of-Thought,122,4,4.0,True,True
+Chain-of-Thought,123,4,,False,False
+Chain-of-Thought,124,1,,False,False
+Chain-of-Thought,125,1,1.0,True,True
+Chain-of-Thought,126,5,,False,False
+Chain-of-Thought,127,4,,False,False
+Chain-of-Thought,128,3,3.0,True,True
+Chain-of-Thought,129,1,,False,False
+Chain-of-Thought,130,5,,False,False
+Chain-of-Thought,131,2,3.0,False,True
+Chain-of-Thought,132,3,,False,False
+Chain-of-Thought,133,4,,False,False
+Chain-of-Thought,134,2,1.0,False,True
+Chain-of-Thought,135,4,,False,False
+Chain-of-Thought,136,1,,False,False
+Chain-of-Thought,137,3,4.0,False,True
+Chain-of-Thought,138,2,,False,False
+Chain-of-Thought,139,4,,False,False
+Chain-of-Thought,140,5,5.0,True,True
+Chain-of-Thought,141,5,,False,False
+Chain-of-Thought,142,5,,False,False
+Chain-of-Thought,143,2,1.0,False,True
+Chain-of-Thought,144,3,,False,False
+Chain-of-Thought,145,1,,False,False
+Chain-of-Thought,146,1,1.0,True,True
+Chain-of-Thought,147,3,,False,False
+Chain-of-Thought,148,3,,False,False
+Chain-of-Thought,149,3,3.0,True,True
+Chain-of-Thought,150,5,,False,False
+Chain-of-Thought,151,5,,False,False
+Chain-of-Thought,152,3,2.0,False,True
+Chain-of-Thought,153,1,,False,False
+Chain-of-Thought,154,1,,False,False
+Chain-of-Thought,155,2,3.0,False,True
+Chain-of-Thought,156,5,,False,False
+Chain-of-Thought,157,4,,False,False
+Chain-of-Thought,158,1,1.0,True,True
+Chain-of-Thought,159,2,,False,False
+Chain-of-Thought,160,5,,False,False
+Chain-of-Thought,161,4,4.0,True,True
+Chain-of-Thought,162,5,,False,False
+Chain-of-Thought,163,5,,False,False
+Chain-of-Thought,164,2,2.0,True,True
+Chain-of-Thought,165,2,,False,False
+Chain-of-Thought,166,3,,False,False
+Chain-of-Thought,167,2,1.0,False,True
+Chain-of-Thought,168,5,,False,False
+Chain-of-Thought,169,2,,False,False
+Chain-of-Thought,170,2,2.0,True,True
+Chain-of-Thought,171,3,,False,False
+Chain-of-Thought,172,1,,False,False
+Chain-of-Thought,173,2,1.0,False,True
+Chain-of-Thought,174,5,,False,False
+Chain-of-Thought,175,5,,False,False
+Chain-of-Thought,176,4,4.0,True,True
+Chain-of-Thought,177,1,,False,False
+Chain-of-Thought,178,4,,False,False
+Chain-of-Thought,179,5,5.0,True,True
+Chain-of-Thought,180,1,,False,False
+Chain-of-Thought,181,2,,False,False
+Chain-of-Thought,182,4,4.0,True,True
+Chain-of-Thought,183,4,,False,False
+Chain-of-Thought,184,4,,False,False
+Chain-of-Thought,185,3,3.0,True,True
+Chain-of-Thought,186,3,,False,False
+Chain-of-Thought,187,3,,False,False
+Chain-of-Thought,188,3,3.0,True,True
+Chain-of-Thought,189,2,,False,False
+Chain-of-Thought,190,4,,False,False
+Chain-of-Thought,191,5,4.0,False,True
+Chain-of-Thought,192,1,,False,False
+Chain-of-Thought,193,5,,False,False
+Chain-of-Thought,194,2,1.0,False,True
+Chain-of-Thought,195,3,,False,False
+Chain-of-Thought,196,1,,False,False
+Chain-of-Thought,197,3,3.0,True,True
+Chain-of-Thought,198,5,,False,False
+Chain-of-Thought,199,3,,False,False
+Hybrid (Few-Shot + CoT),0,3,4.0,False,True
+Hybrid (Few-Shot + CoT),1,1,,False,False
+Hybrid (Few-Shot + CoT),2,1,,False,False
+Hybrid (Few-Shot + CoT),3,4,5.0,False,True
+Hybrid (Few-Shot + CoT),4,4,,False,False
+Hybrid (Few-Shot + CoT),5,3,,False,False
+Hybrid (Few-Shot + CoT),6,2,1.0,False,True
+Hybrid (Few-Shot + CoT),7,5,,False,False
+Hybrid (Few-Shot + CoT),8,5,,False,False
+Hybrid (Few-Shot + CoT),9,2,2.0,True,True
+Hybrid (Few-Shot + CoT),10,2,,False,False
+Hybrid (Few-Shot + CoT),11,5,,False,False
+Hybrid (Few-Shot + CoT),12,5,5.0,True,True
+Hybrid (Few-Shot + CoT),13,2,,False,False
+Hybrid (Few-Shot + CoT),14,5,,False,False
+Hybrid (Few-Shot + CoT),15,5,5.0,True,True
+Hybrid (Few-Shot + CoT),16,2,,False,False
+Hybrid (Few-Shot + CoT),17,4,,False,False
+Hybrid (Few-Shot + CoT),18,3,3.0,True,True
+Hybrid (Few-Shot + CoT),19,2,,False,False
+Hybrid (Few-Shot + CoT),20,4,,False,False
+Hybrid (Few-Shot + CoT),21,1,,False,False
+Hybrid (Few-Shot + CoT),22,4,5.0,False,True
+Hybrid (Few-Shot + CoT),23,3,,False,False
+Hybrid (Few-Shot + CoT),24,2,,False,False
+Hybrid (Few-Shot + CoT),25,2,1.0,False,True
+Hybrid (Few-Shot + CoT),26,3,,False,False
+Hybrid (Few-Shot + CoT),27,2,,False,False
+Hybrid (Few-Shot + CoT),28,4,4.0,True,True
+Hybrid (Few-Shot + CoT),29,4,,False,False
+Hybrid (Few-Shot + CoT),30,1,,False,False
+Hybrid (Few-Shot + CoT),31,1,1.0,True,True
+Hybrid (Few-Shot + CoT),32,2,,False,False
+Hybrid (Few-Shot + CoT),33,2,,False,False
+Hybrid (Few-Shot + CoT),34,4,5.0,False,True
+Hybrid (Few-Shot + CoT),35,3,,False,False
+Hybrid (Few-Shot + CoT),36,4,,False,False
+Hybrid (Few-Shot + CoT),37,4,4.0,True,True
+Hybrid (Few-Shot + CoT),38,5,,False,False
+Hybrid (Few-Shot + CoT),39,2,,False,False
+Hybrid (Few-Shot + CoT),40,2,1.0,False,True
+Hybrid (Few-Shot + CoT),41,5,,False,False
+Hybrid (Few-Shot + CoT),42,1,,False,False
+Hybrid (Few-Shot + CoT),43,1,2.0,False,True
+Hybrid (Few-Shot + CoT),44,4,,False,False
+Hybrid (Few-Shot + CoT),45,5,,False,False
+Hybrid (Few-Shot + CoT),46,1,1.0,True,True
+Hybrid (Few-Shot + CoT),47,1,,False,False
+Hybrid (Few-Shot + CoT),48,4,,False,False
+Hybrid (Few-Shot + CoT),49,3,2.0,False,True
+Hybrid (Few-Shot + CoT),50,3,,False,False
+Hybrid (Few-Shot + CoT),51,5,,False,False
+Hybrid (Few-Shot + CoT),52,1,1.0,True,True
+Hybrid (Few-Shot + CoT),53,4,,False,False
+Hybrid (Few-Shot + CoT),54,3,,False,False
+Hybrid (Few-Shot + CoT),55,2,1.0,False,True
+Hybrid (Few-Shot + CoT),56,4,,False,False
+Hybrid (Few-Shot + CoT),57,3,,False,False
+Hybrid (Few-Shot + CoT),58,5,5.0,True,True
+Hybrid (Few-Shot + CoT),59,3,,False,False
+Hybrid (Few-Shot + CoT),60,5,,False,False
+Hybrid (Few-Shot + CoT),61,3,3.0,True,True
+Hybrid (Few-Shot + CoT),62,1,,False,False
+Hybrid (Few-Shot + CoT),63,1,,False,False
+Hybrid (Few-Shot + CoT),64,1,1.0,True,True
+Hybrid (Few-Shot + CoT),65,3,,False,False
+Hybrid (Few-Shot + CoT),66,2,,False,False
+Hybrid (Few-Shot + CoT),67,5,,False,False
+Hybrid (Few-Shot + CoT),68,3,,False,False
+Hybrid (Few-Shot + CoT),69,4,,False,False
+Hybrid (Few-Shot + CoT),70,2,,False,False
+Hybrid (Few-Shot + CoT),71,4,,False,False
+Hybrid (Few-Shot + CoT),72,5,,False,False
+Hybrid (Few-Shot + CoT),73,2,,False,False
+Hybrid (Few-Shot + CoT),74,3,,False,False
+Hybrid (Few-Shot + CoT),75,3,,False,False
+Hybrid (Few-Shot + CoT),76,1,,False,False
+Hybrid (Few-Shot + CoT),77,4,,False,False
+Hybrid (Few-Shot + CoT),78,3,,False,False
+Hybrid (Few-Shot + CoT),79,3,,False,False
+Hybrid (Few-Shot + CoT),80,1,,False,False
+Hybrid (Few-Shot + CoT),81,2,,False,False
+Hybrid (Few-Shot + CoT),82,2,,False,False
+Hybrid (Few-Shot + CoT),83,5,,False,False
+Hybrid (Few-Shot + CoT),84,5,,False,False
+Hybrid (Few-Shot + CoT),85,3,,False,False
+Hybrid (Few-Shot + CoT),86,5,,False,False
+Hybrid (Few-Shot + CoT),87,1,,False,False
+Hybrid (Few-Shot + CoT),88,5,,False,False
+Hybrid (Few-Shot + CoT),89,2,,False,False
+Hybrid (Few-Shot + CoT),90,1,,False,False
+Hybrid (Few-Shot + CoT),91,4,,False,False
+Hybrid (Few-Shot + CoT),92,3,,False,False
+Hybrid (Few-Shot + CoT),93,1,,False,False
+Hybrid (Few-Shot + CoT),94,1,,False,False
+Hybrid (Few-Shot + CoT),95,5,,False,False
+Hybrid (Few-Shot + CoT),96,4,,False,False
+Hybrid (Few-Shot + CoT),97,1,,False,False
+Hybrid (Few-Shot + CoT),98,1,,False,False
+Hybrid (Few-Shot + CoT),99,4,,False,False
+Hybrid (Few-Shot + CoT),100,1,,False,False
+Hybrid (Few-Shot + CoT),101,1,,False,False
+Hybrid (Few-Shot + CoT),102,4,,False,False
+Hybrid (Few-Shot + CoT),103,4,,False,False
+Hybrid (Few-Shot + CoT),104,3,,False,False
+Hybrid (Few-Shot + CoT),105,4,,False,False
+Hybrid (Few-Shot + CoT),106,1,,False,False
+Hybrid (Few-Shot + CoT),107,2,,False,False
+Hybrid (Few-Shot + CoT),108,3,,False,False
+Hybrid (Few-Shot + CoT),109,4,,False,False
+Hybrid (Few-Shot + CoT),110,5,,False,False
+Hybrid (Few-Shot + CoT),111,1,,False,False
+Hybrid (Few-Shot + CoT),112,5,,False,False
+Hybrid (Few-Shot + CoT),113,4,,False,False
+Hybrid (Few-Shot + CoT),114,2,,False,False
+Hybrid (Few-Shot + CoT),115,4,,False,False
+Hybrid (Few-Shot + CoT),116,2,,False,False
+Hybrid (Few-Shot + CoT),117,2,,False,False
+Hybrid (Few-Shot + CoT),118,5,,False,False
+Hybrid (Few-Shot + CoT),119,1,,False,False
+Hybrid (Few-Shot + CoT),120,2,,False,False
+Hybrid (Few-Shot + CoT),121,3,,False,False
+Hybrid (Few-Shot + CoT),122,4,,False,False
+Hybrid (Few-Shot + CoT),123,4,,False,False
+Hybrid (Few-Shot + CoT),124,1,,False,False
+Hybrid (Few-Shot + CoT),125,1,,False,False
+Hybrid (Few-Shot + CoT),126,5,,False,False
+Hybrid (Few-Shot + CoT),127,4,,False,False
+Hybrid (Few-Shot + CoT),128,3,,False,False
+Hybrid (Few-Shot + CoT),129,1,,False,False
+Hybrid (Few-Shot + CoT),130,5,,False,False
+Hybrid (Few-Shot + CoT),131,2,,False,False
+Hybrid (Few-Shot + CoT),132,3,,False,False
+Hybrid (Few-Shot + CoT),133,4,,False,False
+Hybrid (Few-Shot + CoT),134,2,,False,False
+Hybrid (Few-Shot + CoT),135,4,,False,False
+Hybrid (Few-Shot + CoT),136,1,,False,False
+Hybrid (Few-Shot + CoT),137,3,,False,False
+Hybrid (Few-Shot + CoT),138,2,,False,False
+Hybrid (Few-Shot + CoT),139,4,,False,False
+Hybrid (Few-Shot + CoT),140,5,,False,False
+Hybrid (Few-Shot + CoT),141,5,,False,False
+Hybrid (Few-Shot + CoT),142,5,,False,False
+Hybrid (Few-Shot + CoT),143,2,,False,False
+Hybrid (Few-Shot + CoT),144,3,,False,False
+Hybrid (Few-Shot + CoT),145,1,,False,False
+Hybrid (Few-Shot + CoT),146,1,,False,False
+Hybrid (Few-Shot + CoT),147,3,,False,False
+Hybrid (Few-Shot + CoT),148,3,,False,False
+Hybrid (Few-Shot + CoT),149,3,,False,False
+Hybrid (Few-Shot + CoT),150,5,,False,False
+Hybrid (Few-Shot + CoT),151,5,,False,False
+Hybrid (Few-Shot + CoT),152,3,,False,False
+Hybrid (Few-Shot + CoT),153,1,,False,False
+Hybrid (Few-Shot + CoT),154,1,,False,False
+Hybrid (Few-Shot + CoT),155,2,,False,False
+Hybrid (Few-Shot + CoT),156,5,,False,False
+Hybrid (Few-Shot + CoT),157,4,,False,False
+Hybrid (Few-Shot + CoT),158,1,,False,False
+Hybrid (Few-Shot + CoT),159,2,,False,False
+Hybrid (Few-Shot + CoT),160,5,,False,False
+Hybrid (Few-Shot + CoT),161,4,,False,False
+Hybrid (Few-Shot + CoT),162,5,,False,False
+Hybrid (Few-Shot + CoT),163,5,,False,False
+Hybrid (Few-Shot + CoT),164,2,,False,False
+Hybrid (Few-Shot + CoT),165,2,,False,False
+Hybrid (Few-Shot + CoT),166,3,,False,False
+Hybrid (Few-Shot + CoT),167,2,,False,False
+Hybrid (Few-Shot + CoT),168,5,,False,False
+Hybrid (Few-Shot + CoT),169,2,,False,False
+Hybrid (Few-Shot + CoT),170,2,,False,False
+Hybrid (Few-Shot + CoT),171,3,,False,False
+Hybrid (Few-Shot + CoT),172,1,,False,False
+Hybrid (Few-Shot + CoT),173,2,,False,False
+Hybrid (Few-Shot + CoT),174,5,,False,False
+Hybrid (Few-Shot + CoT),175,5,,False,False
+Hybrid (Few-Shot + CoT),176,4,,False,False
+Hybrid (Few-Shot + CoT),177,1,,False,False
+Hybrid (Few-Shot + CoT),178,4,,False,False
+Hybrid (Few-Shot + CoT),179,5,,False,False
+Hybrid (Few-Shot + CoT),180,1,,False,False
+Hybrid (Few-Shot + CoT),181,2,,False,False
+Hybrid (Few-Shot + CoT),182,4,,False,False
+Hybrid (Few-Shot + CoT),183,4,,False,False
+Hybrid (Few-Shot + CoT),184,4,,False,False
+Hybrid (Few-Shot + CoT),185,3,,False,False
+Hybrid (Few-Shot + CoT),186,3,,False,False
+Hybrid (Few-Shot + CoT),187,3,,False,False
+Hybrid (Few-Shot + CoT),188,3,,False,False
+Hybrid (Few-Shot + CoT),189,2,,False,False
+Hybrid (Few-Shot + CoT),190,4,,False,False
+Hybrid (Few-Shot + CoT),191,5,,False,False
+Hybrid (Few-Shot + CoT),192,1,,False,False
+Hybrid (Few-Shot + CoT),193,5,,False,False
+Hybrid (Few-Shot + CoT),194,2,,False,False
+Hybrid (Few-Shot + CoT),195,3,,False,False
+Hybrid (Few-Shot + CoT),196,1,,False,False
+Hybrid (Few-Shot + CoT),197,3,,False,False
+Hybrid (Few-Shot + CoT),198,5,,False,False
+Hybrid (Few-Shot + CoT),199,3,,False,False
